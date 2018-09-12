@@ -1,0 +1,46 @@
+body{
+    background: #f3f3f3;
+}
+.container-fluid{
+	height: 100vh;
+	margin-top: 6%;
+}
+.form-row{
+	margin-top: 5%;
+}
+.login-options-separator{
+    border-top: 1px solid #d8d8d8;
+    margin: 17px 0px;
+    line-height: 0.01em;
+    text-align: center;
+}
+.separator-text{
+	background: white;
+    padding: 0px 8px;
+}
+.facebook-login-btn{
+    background: #3b5998;
+    color: white;
+    margin-bottom: 6px;
+}
+.google-login-btn{
+    background: #d62d20;
+    color: white;
+}
+.login-btn{
+	float: right;
+}
+.login-form-parent{
+    border: 1px solid #f1f1f1;
+    padding: 20px;
+    box-shadow: 0px 0px 4px -1px black;
+    background: white;
+    width: 380px;
+}
+.form-heading{
+	text-align: center;
+}
+.login-col{
+    justify-content: center;
+    display: flex;
+}
